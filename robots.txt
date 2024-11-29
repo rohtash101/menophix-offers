@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://menophix-offers.netlify.app/sitemap.xml
+
+
+
